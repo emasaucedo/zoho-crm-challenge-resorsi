@@ -1,0 +1,31 @@
+First Name,Last Name,Company,Title,Email,Lead Source,Lead Status
+Alice,Smith,ABC Corp,Developer,alice.smith@email.com,Advertisement,Contact in Future
+Bob,Harris,XYZ Inc,Manager,bob.harris@email.com,Cold Call,Contact in Future
+,,XYZ Inc,Manager,carlos.gonzalez@email.com,Employee Referral,Contact in Future
+Diana,Moreno,DMM Solutions,CEO,diana.moreno@email.com,Facebook,Contact in Future
+Eric,Young,EY Tech,CTO,eric.young@email.com,External Referral,Contact in Future
+Fiona,Martinez,Innovate Ltd,Marketer,fiona.martinez@email.com,Advertisement,Contact in Future
+George,Washington,Freelancer,Consultant,george.washington@email.com,LinkedIn,Contact in Future
+Hannah,Lee,H-Tech,Analyst,hannah.lee@email.com,Facebook,Contact in Future
+Ivan,Petrov,IP Solutions,Developer,ivan.petrov@email.com,Twitter,Contact in Future
+Julia,Brown,JBC Media,HR Manager,julia.brown@email.com,Employee Referral,Contact in Future
+Kevin,Taylor,KTV Inc,Researcher,kevin.taylor@email.com,External Referral,Contact in Future
+Linda,Evans,LE Marketing,Director,linda.evans@email.com,Advertisement,Contact in Future
+Monica,Gilbert,MG Innovations,Product Manager,monica.gilbert@email.com,Cold Call,Contact in Future
+Nathan,Perez,NP Tech,CEO,,LinkedIn,Contact in Future
+Olivia,Sanchez,OS Media,COO,olivia.sanchez@email.com,Twitter,Contact in Future
+Patricia,Johnson,PJ Systems,CFO,patricia.johnson@email.com,Facebook,Contact in Future
+Quinn,Roberts,QR Tech,CMO,quinn.roberts@email.com,Advertisement,Contact in Future
+Rachel,Kim,RK Health,Surgeon,rachel.kim@email.com,Employee Referral,Contact in Future
+Steve,Morris,SM Solutions,Engineer,steve.morris@email.com,External Referral,Contact in Future
+Tina,Adams,TA Media,Producer,tina.adams@email.com,Facebook,Contact in Future
+Uma,Thompson,UT Designs,Designer,uma.thompson@email.com,LinkedIn,Contact in Future
+Victor,Diaz,VD Tech,Programmer,victor.diaz@email.com,Advertisement,Contact in Future
+Wendy,Austin,WA Consulting,Advisor,wendy.austin@email.com,Cold Call,Contact in Future
+Xavier,Jones,XJ Marketing,Strategist,xavier.jones@email.com,Twitter,Contact in Future
+Yolanda,Garcia,YG Tech,Manager,yolanda.garcia@email.com,Facebook,Contact in Future
+Zoe,Chapman,ZC Innovations,Founder,zoe.chapman@email.com,Employee Referral,Contact in Future
+Alan,Ford,AF Tech,Engineer,alan.ford@email.com,Advertisement,Contact in Future
+Brenda,Watson,BW Systems,Director,brenda.watson@email.com,Cold Call,Contact in Future
+Cindy,White,CW Web,Web Developer,cindy.white@email.com,LinkedIn,Contact in Future
+Derek,Lawson,DL Media,Photographer,derek.lawson@email.com,Facebook,Contact in Future

@@ -12,8 +12,8 @@ This project enables managing leads in Zoho CRM using CRUD operations and genera
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+   git clone https://github.com/emasaucedo/zoho-crm-challenge-resorsi.git
+   cd your_repo
 
 2. **Install dependencies**
     ```bash
